@@ -6,6 +6,8 @@
     - [Send SMS to specific phone numbers](#send-sms-to-specific-phone-numbers)
     - [Send SMS to Board Items](#send-sms-to-board-items)
 - [Frequently Asked Questions](#faq)
+- [Feature Request](#feature-request)
+- [Feedback](#feedback)
 
 ## Installation
 
@@ -86,3 +88,6 @@ Do raise a support ticket with our Support Team at support@moceanapi.com.
 
 ## Feature Request
 Do raise a support ticket with our Support Team at support@moceanapi.com.
+
+## Feedback
+Send feedback to our Support Team at support@moceanapi.com.
