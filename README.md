@@ -1,4 +1,4 @@
-# Mocean Monday Dashboard User Documentation
+# Mocean monday.com Dashboard User Documentation
 
 ## Contents
 - [Installation](#installation)
@@ -11,7 +11,7 @@
 
 ## Installation
 
-1. If you don't already have a dashboard created, go ahead and create a dashboard in `Monday.com`
+1. If you don't already have a dashboard created, go ahead and create a dashboard in `monday.com`
 2. Select the dashboard and click on `Add Widget` and select `Apps`
 
 ![image](https://user-images.githubusercontent.com/24620178/153533091-f1e61325-b6e6-4771-b6ae-4c2097437e62.png)
@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/24620178/153541789-9bef40e4-977f-4ade-bcb2-cb84c2c6211c.png)
 
-6. After you've successfully authenticated, you will be redirected back to `Monday.com`
+6. After you've successfully authenticated, you will be redirected back to `monday.com`
 
 ## Usage
 ### Send SMS to specific phone numbers
@@ -40,7 +40,7 @@
 ![image](https://user-images.githubusercontent.com/24620178/153547425-6f21df33-b32c-4d3a-ac1e-1f04fbc8e835.png)
 
 ### Send SMS to Board Items
-0. This is the sample board items we have imported from `Monday.com`
+0. This is the sample board items we have imported from `monday.com`
 
 ![image](https://user-images.githubusercontent.com/24620178/153548258-163372e1-5050-44db-99b9-a544878f947e.png)
 
