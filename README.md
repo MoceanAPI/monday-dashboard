@@ -1,4 +1,8 @@
-# Mocean monday.com Dashboard User Documentation
+# Mocean monday.com User Documentation
+## Looking for other documentation ?
+- [MoceanAPI - SMS Broadcast Documentation](https://moceanapi.github.io/monday-dashboard/)  (Current)
+- [MoceanAPI - Send SMS Documentation](https://moceanapi.github.io/monday-item/)
+- [MoceanAPI - SMS Automation Documentation](https://moceanapi.github.io/monday-automation/)
 
 ## Contents
 - [Installation](#installation)
@@ -16,7 +20,7 @@
 
 ![image](https://user-images.githubusercontent.com/24620178/153533091-f1e61325-b6e6-4771-b6ae-4c2097437e62.png)
 
-3. Search for `Mocean` in the search bar and install the `MoceanAPI - Dashboard Widget`
+3. Search for `Mocean` in the search bar and install the `MoceanAPI - SMS Broadcast`
 
 ![image](https://user-images.githubusercontent.com/24620178/153551069-c098d07a-c57d-4f9a-b304-98309d438554.png)
 
