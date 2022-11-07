@@ -11,6 +11,7 @@
 - [Usage](#usage)
     - [Send SMS to specific phone numbers](#send-sms-to-specific-phone-numbers)
     - [Send SMS to Board Items](#send-sms-to-board-items)
+- [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
 - [Feature Request](#feature-request)
 - [Feedback](#feedback)
@@ -66,6 +67,18 @@
 5. Select the `Phone Column` to send SMS to and compose your SMS
 
 ![image](https://user-images.githubusercontent.com/24620178/153548763-19811cfb-641e-4133-8e22-c43500d86164.png)
+
+## Whitelist IP Address
+
+For added security, you should whitelist `210.5.43.165` IP address in your [MoceanAPI Dashboard](https://dashboard.moceanapi.com)
+
+To do so, follow these steps
+
+1. Go to [MoceanAPI Dashboard](https://dashboard.moceanapi.com/user/apisetting)
+2. Navigate to **API Account** 
+3. Key in **`210.5.43.165`** into **Allow IP** field
+
+![image](https://user-images.githubusercontent.com/24620178/200212449-ebf7e0ac-a803-4a98-a67e-57e489d24a2e.png)
 
 ## FAQ
 1. Can I get Test Credits ?
