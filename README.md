@@ -70,15 +70,15 @@
 
 ## Whitelist IP Address
 
-For added security, you should whitelist `210.5.43.165` IP address in your [MoceanAPI Dashboard](https://dashboard.moceanapi.com)
+For added security, you should whitelist `192.168.4.1` IP address in your [MoceanAPI Dashboard](https://dashboard.moceanapi.com)
 
 To do so, follow these steps
 
 1. Go to [MoceanAPI Dashboard](https://dashboard.moceanapi.com/user/apisetting)
 2. Navigate to **API Account** 
-3. Key in **`210.5.43.165`** into **Allow IP** field
+3. Key in **`192.168.4.1`** into **Allow IP** field
 
-![image](https://user-images.githubusercontent.com/24620178/200212449-ebf7e0ac-a803-4a98-a67e-57e489d24a2e.png)
+![image](https://user-images.githubusercontent.com/24620178/200761674-1ccb6e6c-2d7b-499d-bef6-ee47a3e2a624.png)
 
 ## FAQ
 1. Can I get Test Credits ?
