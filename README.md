@@ -44,7 +44,7 @@
 2. Enter the phone numbers you'd like to send to
 3. Compose the SMS you'd like to send.
 
-![image](https://user-images.githubusercontent.com/24620178/153547425-6f21df33-b32c-4d3a-ac1e-1f04fbc8e835.png)
+![image](https://user-images.githubusercontent.com/24620178/206366203-d39691fb-ae2c-4a86-a2e3-aacefa07a2e7.png)
 
 ### Send SMS to Board Items
 0. This is the sample board items we have imported from `monday.com`
@@ -53,20 +53,16 @@
 
 1. Select `Send to board filtered by status criteria/value` from the `Send Type` dropdown list.
 2. Choose the `Board` you would like to send SMS to
-
-![image](https://user-images.githubusercontent.com/24620178/153548397-99ff8f07-55c2-48b2-8b48-b291c8637fa7.png)
-
 3. Select the `Column` you would like to filter by.
-
-![image](https://user-images.githubusercontent.com/24620178/153548566-bb81a71a-89e8-4448-bf7d-4421ab128491.png)
-
 4. Select the `Criteria` you would like to send SMS to
-
-![image](https://user-images.githubusercontent.com/24620178/153548661-0fa5992a-795b-4f64-8563-7941a0d2162f.png)
-
 5. Select the `Phone Column` to send SMS to and compose your SMS
+6. (Optional) You can configure keywords to personalise your SMS
 
-![image](https://user-images.githubusercontent.com/24620178/153548763-19811cfb-641e-4133-8e22-c43500d86164.png)
+![image](https://user-images.githubusercontent.com/24620178/206367524-c0d4e85d-f35c-4ab6-871f-733830cbd3a0.png)
+
+7. (Optional) Preview your SMS to see what your users will get before sending the SMS
+
+![image](https://user-images.githubusercontent.com/24620178/206367607-4ce1bf68-33ec-41c7-a825-7867bc2c0189.png)
 
 ## Whitelist IP Address
 
