@@ -49,7 +49,7 @@
 ### Send SMS to Board Items
 0. This is the sample board items we have imported from `monday.com`
 
-![image](https://user-images.githubusercontent.com/24620178/153548258-163372e1-5050-44db-99b9-a544878f947e.png)
+![image](https://user-images.githubusercontent.com/24620178/206368292-97a40c1f-c2d8-46eb-b256-9a0d00401eff.png)
 
 1. Select `Send to board filtered by status criteria/value` from the `Send Type` dropdown list.
 2. Choose the `Board` you would like to send SMS to
