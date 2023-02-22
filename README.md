@@ -12,6 +12,7 @@
 - [Usage](#usage)
     - [Send SMS to specific phone numbers](#send-sms-to-specific-phone-numbers)
     - [Send SMS to Board Items](#send-sms-to-board-items)
+    - [Send SMS to Board Items from a virtual number](#send-sms-to-board-items-from-a-virtual-number)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
 - [Feature Request](#feature-request)
@@ -64,6 +65,19 @@
 7. (Optional) Preview your SMS to see what your users will get before sending the SMS
 
 ![image](https://user-images.githubusercontent.com/24620178/206367607-4ce1bf68-33ec-41c7-a825-7867bc2c0189.png)
+
+### Send SMS to Board Items from a virtual number
+
+1. If you don't already own a virtual number, get one [here](https://github.com/Moceanapi/monday-two-way/#buy-a-virtual-number)
+2. Select the `Virtual number` you'd like to send SMS from.
+3. Choose the `Board` you would like to send SMS to
+4. Select the `Column` you would like to filter by.
+5. Select the `Criteria` you would like to send SMS to
+6. Select the `Phone Column` to send SMS to
+7. Select the `Person Column` you'd like to notify on every SMS reply and compose your SMS
+8. (Optional) You can configure keywords to personalise your SMS
+
+![image](https://user-images.githubusercontent.com/24620178/220554748-be449ff8-70b4-4fba-9052-5dd063b50a6c.png)
 
 ## Whitelist IP Address
 
