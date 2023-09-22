@@ -1,10 +1,10 @@
 # Mocean monday.com SMS Broadcast User Documentation
 
 ## Looking for other documentation ?
-- [MoceanAPI - SMS Broadcast Documentation](https://moceanapi.github.io/monday-dashboard/)  (Current)
-- [MoceanAPI - Send SMS Documentation](https://moceanapi.github.io/monday-item/)
+- [MoceanAPI - SMS Broadcast Documentation](https://github.com/MoceanAPI/monday-dashboard)  (Current)
+- [MoceanAPI - Send SMS Documentation](https://github.com/MoceanAPI/monday-item/)
 - [MoceanAPI - Omnichannel Messaging](https://github.com/MoceanAPI/monday-omnichannel)
-- [MoceanAPI - SMS Automation Documentation](https://moceanapi.github.io/monday-automation/)
+- [MoceanAPI - SMS Automation Documentation](https://github.com/MoceanAPI/monday-automation/)
 - [SMS Sender ID Country List](https://moceanapi.github.io/monday/)
 
 ## Contents
