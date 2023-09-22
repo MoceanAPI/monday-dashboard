@@ -3,7 +3,7 @@
 ## Looking for other documentation ?
 - [MoceanAPI - SMS Broadcast Documentation](https://moceanapi.github.io/monday-dashboard/)  (Current)
 - [MoceanAPI - Send SMS Documentation](https://moceanapi.github.io/monday-item/)
-- [MoceanAPI - Two Way SMS Documentation](https://moceanapi.github.io/monday-two-way/)
+- [MoceanAPI - Omnichannel Messaging](https://github.com/MoceanAPI/monday-omnichannel)
 - [MoceanAPI - SMS Automation Documentation](https://moceanapi.github.io/monday-automation/)
 - [SMS Sender ID Country List](https://moceanapi.github.io/monday/)
 
