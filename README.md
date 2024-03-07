@@ -14,7 +14,7 @@
     - [Send SMS to Board Items](#send-sms-to-board-items)
     - [Send SMS to Board Items from a virtual number](#send-sms-to-board-items-from-a-virtual-number)
 - [Whitelist IP Address](#whitelist-ip-address)
-- [Frequently Asked Questions](#faq)
+- [Frequently Asked Questions (FAQ)](#faq)
 - [Feature Request](#feature-request)
 - [Feedback](#feedback)
 
