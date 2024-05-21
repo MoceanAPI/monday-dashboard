@@ -27,11 +27,11 @@
 ![ALT image](https://user-images.githubusercontent.com/24620178/153551069-c098d07a-c57d-4f9a-b304-98309d438554.png)
 4. After installing the widget, you will need to `Authenticate` your account
 
-![image](https://user-images.githubusercontent.com/24620178/153541647-1d1bb726-cdc3-475a-8da0-1504ff583614.png)
+![ALT image](https://user-images.githubusercontent.com/24620178/153541647-1d1bb726-cdc3-475a-8da0-1504ff583614.png)
 
 5. Enter your Mocean API Credentials and the sender
 
-![image](https://user-images.githubusercontent.com/24620178/206361812-183b24e8-8a89-4044-8b4a-ae32fee3320b.png)
+![ALT Mocean API Credentials and the sender](https://user-images.githubusercontent.com/24620178/206361812-183b24e8-8a89-4044-8b4a-ae32fee3320b.png)
 
 6. After you've successfully authenticated, you will be redirected back to `monday.com`
 
