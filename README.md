@@ -80,109 +80,82 @@ To do so, follow these steps
 ## FAQ
 1. **Can I get Test Credits ?**
 You can get 20 FREE credits. Please note that once you make a top-up, the free credits will be removed.
+
 2. **What means by 20 credits, 1 credit = EUR 1?**
 No, during the trial period, 1 credit equals 1 SMS. So, with 20 credits, you can test 20 SMS.
 
 3. **Can I request more trial credits?**
 Yes, of course! If you&#39;d like to test further, feel free to request from us.
+
 4. **Can I send international messages?**
 Yes. We are an international SMS provider. You can send out SMS both locally and internationally.
 The price for each country varies, do check out our pricing list here (link to
 https://moceanapi.com/pricing)
 
 5. **What is the maximum characters per SMS I can put into the message?**
-
 English messages can be up to 160 characters, while for Unicode text messages (including Arabic,
 Chinese, etc.), the limit is 70 characters.
 
 6. **Do you support long message content?**
-
 Yes, you can send long message content and your credit will be deducted based on the length of the message content.
 
 7. **Is there a limit to how many numbers I can send at one time?**
-
 There is no limit on numbers to be sent in one go.
 
 8. **What format does my phone number need to be in?**
-
-Mobile phone numbers need to be entered in international formatting with the country code and
-without spaces, plus signs or leading zeros. Example: Country code 60 for country Malaysia,
-60123456789
+Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros. Example: Country code 60 for country Malaysia, 60123456789
 
 9. **What is the character limit for the sender/sender ID?**
-
 The alpha sender ID can be a maximum of 11 characters, while the numeric sender can consist of up to 15 digits.
 
 10. **I attempted to send messages to US numbers, but they failed to be delivered. Why?**
-
 Message content that is not registered will result in a failure. To comply with US regulations, it’s essential to buy a number and undergo a use case verification before you can send SMS to your customers.
 
 11. **Can I utilize my personal mobile or landline number as the sender for SMS to the US?**
-
 No, it’s necessary to purchase a dedicated number, such as a Toll-Free Number, and complete the use case verification process.
 
 12. **How do I go about obtaining or purchasing a Toll Free Number in the US/Canada?**
-
 a) Complete the number registration form available [here](https://docs.google.com/document/d/1I37LP5jF4fnpno9FUcvcQ0p06oGtOqhZ/edit) 
-
 b) Proceed with the payment.
-
 c) After your registration is accepted and approved, you’ll be able to send and receive SMS using your Toll Free Number.
 
 13. **What is the expected timeframe for number approval?**
-
 Yes, it is possible. We would need a LoA (Letter of Agency) signed to allow us to take over the SMS part of the number.
 
 14. **I am currently having a TFN / 10DLC from another provider. I want to use the same number in your platform. Is that possible?**
-
 Yes, it is possible. We would need a LoA (Letter of Agency) signed to allow us to take over the SMS part of the number.
 
 15. **Why my SMS failed to deliver?**
-
-You may have set an invalid sender ID, alphanumeric sender ID must be less than 12 characters, and numeric sender ID must be less than 16 characters.
-
-Another common issue is you did not specify the correct phone number format including country code. Example: Country code 60 for country Malaysia, 60123456789
+You may have set an invalid sender ID, alphanumeric sender ID must be less than 12 characters, and numeric sender ID must be less than 16 characters. Another common issue is you did not specify the correct phone number format including country code. Example: Country code 60 for country Malaysia, 60123456789
 
 16. **I want to purchase SMS credits, how to top up my account?**
-
 Easy &amp; fast, just follow a few steps below:
-
 1) Login to your account at [https://dashboard.moceanapi.com/login](https://dashboard.moceanapi.com/login) 
-
 2) Go to Top Up page on left menu
-
 3) Select Payment
-
 4) Pay with credit card / PayPal
-
 Your account will be credited instantly and enjoy texting!
 
 17. **Why I cannot buy a Virtual Number?**
-
 This is due to your account is under trial mode or has insufficient balance. Please top up before proceeding with number purchase.
 
 18. **Why I cannot get monday.com Notifications after receiving an SMS reply?**
-
 You will need to connect your Monday.com account with us. We have a video for you to follow along to connect your Monday.com account and MoceanAPI. Check it out [here](https://www.youtube.com/watch?v=P1DG6grBlQ0)
 
 19. **Do I need a Virtual Number to send 1-Way SMS?**
-
 No, you don’t need a Virtual Number to send 1-Way SMS, unless you are sending SMS to recipients in the US &amp; Canada.
 
 
 ### SMS Compliance in United States (US)
 
 1. **SMS Compliance Guidelines**
-
 Below are some general guidelines / best practices you can follow:
-
 <ins>Obtain proper consent</ins>: You must obtain consent from the mobile subscriber before sending any SMS messages. The consent should be opt-in and clearly disclose the frequency and nature of messages.
 <ins>Include opt-out instructions</ins>: Every SMS message should include clear and easy-to-follow instructions on how to opt-out of receiving further messages.
 <ins>Provide customer support</ins>: Your SMS messaging program should include customer support options for subscribers to receive assistance
 <ins>Comply with content restrictions</ins>: SMS messages should comply with all content restrictions and regulations
 
 2. **Campaigns Prohibited:**
-
 - Loan advertisements except for messages from direct lenders for secured loans
 - Payday loans
 - Credit repair
@@ -195,7 +168,6 @@ Below are some general guidelines / best practices you can follow:
 - Lead generation campaigns that indicate the sharing of collected information with third parties
 
 3. **Messaging Prohibited:**
-
 - Message streams that result in excessive complaints or STOP commands typically indicate an unwanted message campaign and will not be allowed to continue.
 - Phishing: Messages that attempt to obtain sensitive information, such as usernames, passwords, or financial information, through fraudulent means are strictly prohibited.
 - Fraud or scams: Messages that deceive subscribers by promoting fraudulent or misleading offers, schemes, or scams are not allowed.
@@ -205,7 +177,6 @@ Below are some general guidelines / best practices you can follow:
 - Affiliate lead generation for these financial programs is also prohibited.
 
 4. **US SMS Delivery Option**
-
 | Section| 10DLC | TOLL FREE| DEDICATED SHORT CODE|
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Introduction                 | 10DLC is just the new name for sending primarily 1-way A2P messages over local long codes. In the past using local long codes was primarily for 2-way conversational traffic (P2P) but companies were using it for 1-way traffic as well. If you wanted to send any kind of volume of messages via long codes (more than a few hundred a day) you had to use a pool of senders because velocity filters would treat high volumes of messages coming from one sender as SPAM and automatically block the sender. Now with 10DLC registration you can send higher volumes of messages from a single sender. This works really well for sending under about 2,000 messages per day and if you or your customer wants a local sender in their area. External vetting is also available for an additional fee to get more than 2,000 messages per day per sender.  | A few years ago Operators started allowing SMS to be delivered via the toll free number pool that was previously only for voice calls. Toll free numbers are also 10 digits long but all start with one of the following dial codes: 1800, 1888, 1877, 1866, 1855, 1844 or 1833. This route allows for handset DLR (delivery receipt) instead of the less accurate gateway DLR provided on 10 DLC. The route also did not have a volume limit per sender like long codes do so it was ideal for business use. Additionally, the service comes with auto responders built in for STOP, HELP and CANCEL responses from mobile subscribers, and has a gateway maintained opt-out database per sender. The route currently has the same content restrictions as 10 DLC. | In the USA a short code is a dedicated 5 or 6 digit sender ID assigned to a specific brand for a specific purpose or campaign. A good example is a bank sending one time codes to their customers for 2 factor authentication. This is the most premium SMS service in the USA as it has handset DLR and goes through a lengthy vetting process. There are several requirements to get one of these codes approved, they take about 1-2 months to get fully approved and have significant monthly and setup fees, so they are typically used by larger corporations with very high volume sending. Client needs to show opt-in process and be able to handle auto responders for HELP/STOP/CANCEL as well as maintain opt-out database per campaign.  |
