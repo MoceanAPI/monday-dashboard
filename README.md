@@ -24,15 +24,11 @@
 2. Select the dashboard and click on `Add Widget` and select `Apps`
 ![image](https://user-images.githubusercontent.com/24620178/153533091-f1e61325-b6e6-4771-b6ae-4c2097437e62.png)
 3. Search for `Mocean` in the search bar and install the `MoceanAPI - SMS Broadcast`
-![ALT image](https://user-images.githubusercontent.com/24620178/153551069-c098d07a-c57d-4f9a-b304-98309d438554.png)
+![image](https://user-images.githubusercontent.com/24620178/153551069-c098d07a-c57d-4f9a-b304-98309d438554.png)
 4. After installing the widget, you will need to `Authenticate` your account
-
-![ALT image](https://user-images.githubusercontent.com/24620178/153541647-1d1bb726-cdc3-475a-8da0-1504ff583614.png)
-
+![image](https://user-images.githubusercontent.com/24620178/153541647-1d1bb726-cdc3-475a-8da0-1504ff583614.png)
 5. Enter your Mocean API Credentials and the sender
-
-![ALT Mocean API Credentials and the sender](https://user-images.githubusercontent.com/24620178/206361812-183b24e8-8a89-4044-8b4a-ae32fee3320b.png)
-
+![image](https://user-images.githubusercontent.com/24620178/206361812-183b24e8-8a89-4044-8b4a-ae32fee3320b.png)
 6. After you've successfully authenticated, you will be redirected back to `monday.com`
 
 ## Usage
@@ -41,25 +37,19 @@
 1. To send SMS to specific phone numbers, select `Send to specific phone numbers` from the `Send Type` dropdown list
 2. Enter the phone numbers you'd like to send to
 3. Compose the SMS you'd like to send.
-
 ![image](https://user-images.githubusercontent.com/24620178/206366203-d39691fb-ae2c-4a86-a2e3-aacefa07a2e7.png)
 
 ### Send SMS to Board Items
 0. This is the sample board items we have imported from `monday.com`
-
 ![image](https://user-images.githubusercontent.com/24620178/206368766-bcd9b2df-e1a7-49e4-99e2-01032749fccb.png)
-
 1. Select `Send to board filtered by status criteria/value` from the `Send Type` dropdown list.
 2. Choose the `Board` you would like to send SMS to
 3. Select the `Column` you would like to filter by.
 4. Select the `Criteria` you would like to send SMS to
 5. Select the `Phone Column` to send SMS to and compose your SMS
 6. (Optional) You can configure keywords to personalise your SMS
-
 ![image](https://user-images.githubusercontent.com/24620178/206367524-c0d4e85d-f35c-4ab6-871f-733830cbd3a0.png)
-
 7. (Optional) Preview your SMS to see what your users will get before sending the SMS
-
 ![image](https://user-images.githubusercontent.com/24620178/206367607-4ce1bf68-33ec-41c7-a825-7867bc2c0189.png)
 
 ### Send SMS to Board Items from a virtual number
@@ -89,19 +79,13 @@ To do so, follow these steps
 
 ## FAQ
 1. **Can I get Test Credits ?**
-
 You can get 20 FREE credits. Please note that once you make a top-up, the free credits will be removed.
-
 2. **What means by 20 credits, 1 credit = EUR 1?**
-
 No, during the trial period, 1 credit equals 1 SMS. So, with 20 credits, you can test 20 SMS.
 
 3. **Can I request more trial credits?**
-   
 Yes, of course! If you&#39;d like to test further, feel free to request from us.
-
 4. **Can I send international messages?**
-
 Yes. We are an international SMS provider. You can send out SMS both locally and internationally.
 The price for each country varies, do check out our pricing list here (link to
 https://moceanapi.com/pricing)
