@@ -24,7 +24,7 @@
 2. Select the dashboard and click on `Add Widget` and select `Apps`
 ![image](https://user-images.githubusercontent.com/24620178/153533091-f1e61325-b6e6-4771-b6ae-4c2097437e62.png)
 3. Search for `Mocean` in the search bar and install the `MoceanAPI - SMS Broadcast`
-![image](https://user-images.githubusercontent.com/24620178/153551069-c098d07a-c57d-4f9a-b304-98309d438554.png)
+![ALT image](https://user-images.githubusercontent.com/24620178/153551069-c098d07a-c57d-4f9a-b304-98309d438554.png)
 4. After installing the widget, you will need to `Authenticate` your account
 
 ![image](https://user-images.githubusercontent.com/24620178/153541647-1d1bb726-cdc3-475a-8da0-1504ff583614.png)
