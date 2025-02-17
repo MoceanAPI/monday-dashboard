@@ -171,9 +171,6 @@ Even if your specific use case isn't explicitly listed as prohibited, certain ty
 | Unicode                      | Yes |
 | How to order                 | Download TFN registration form [here](https://docs.google.com/document/d/1b-VJCcCGcNgHXgm2dmelWW6m0vsN6Kfg/edit)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-24. **Can I use the same WhatsApp number on Monday.com and my WhatsApp mobile app to send messages to my customers?**
-- No. Once a phone number is registered on the WhatsApp Business Platform for use with Monday.com, it can no longer be used on the WhatsApp mobile app.
-
 **Did not find what you're looking for ?**
 
 Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
