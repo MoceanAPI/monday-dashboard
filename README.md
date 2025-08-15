@@ -207,11 +207,11 @@ When submitting a TFN verification request, you should follow the guidelines bel
 - Provide a clear and simple description of the business / service:
 - Explain exactly what business / service you offer and why the brand is sending messages (e.g., appointment reminders, OTP alerts, etc.).
 - The more details you give, the easier it will be to avoid delays or rejections during verification.
-- Ineligible Use Cases: Not all use cases are permitted for business messaging. Any content that is deceptive, fraudulent, unwanted, or illegal is prohibited. For more info, visit here. 
+- Ineligible Use Cases: Not all use cases are permitted for business messaging. Any content that is deceptive, fraudulent, unwanted, or illegal is prohibited. For more info, visit [here](https://moceanapi.com/question/63). 
 
 3) **Content Messages:**
 - Ensure the brand name is included in every message.
-- Do not include public URL shorteners (like bit.ly links) in message content. For more info, visit here. 
+- Do not include public URL shorteners (like bit.ly links) in message content. For more info, visit [here](https://moceanapi.com/question/62). 
  
 4) **Opt-In Description ("Call to Action"):**
 - The opt-in description should clearly explain how the business collects the end user’s phone number to send text messages.
