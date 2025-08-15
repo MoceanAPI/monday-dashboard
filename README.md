@@ -181,7 +181,8 @@ Even if your specific use case isn't explicitly listed as prohibited, certain ty
 | 2-Way Possible               | Yes |
 | Concatenated                 | Yes |
 | Unicode                      | Yes |
-| How to order                 | Download TFN registration form [here](https://docs.google.com/document/d/1b-VJCcCGcNgHXgm2dmelWW6m0vsN6Kfg/edit)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| How to order                 | Download TFN registration form [here](https://docs.google.com/document/d/1b-VJCcCGcNgHXgm2dmelWW6m0vsN6Kfg/edit)|
+| TFN verification             | Download TFN Verification Compliance Guidance [here](https://github.com/MoceanAPI/monday-dashboard/blob/main/TFN%20Verification%20Compliance%20Guidance.pdf)|
 
 **Did not find what you're looking for ?**
 
