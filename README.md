@@ -182,7 +182,7 @@ Even if your specific use case isn't explicitly listed as prohibited, certain ty
 | Concatenated                 | Yes |
 | Unicode                      | Yes |
 | How to order                 | Download TFN registration form [here](https://docs.google.com/document/d/1b-VJCcCGcNgHXgm2dmelWW6m0vsN6Kfg/edit)|
-| TFN verification             | Download TFN Verification Compliance Guidance [here](https://github.com/MoceanAPI/monday-dashboard/blob/main/TFN%20Verification%20Compliance%20Guidance.pdf)|
+| TFN verification             | Read TFN Verification Compliance Guidance [here](#tfn-verification-compliance-guidance)|
 
 **Did not find what you're looking for ?**
 
@@ -193,3 +193,56 @@ Do raise a support ticket with our Support Team at [support@moceanapi.com](mailt
 
 ## Feedback
 Send feedback to our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
+
+## TFN Verification Compliance Guidance
+
+When submitting a TFN verification request, you should follow the guidelines below as a checklist. These steps help prevent your messages from being flagged as spam and improve the chances of your toll-free verification being approved quickly. While this process cannot guarantee approval in every case, a thorough authenticity review can help you spot early warning signs of businesses that might plan to send spam or phishing messages. Each item below supports proof of the business owner’s authenticity, helping to establish credibility and meet compliance requirements.
+ 
+1) **Business Information:**
+- The business name, address, and contact details must match the company sending the messages.
+- The name should be the same as the one shown in the actual messages, like confirmation texts or HELP/STOP replies. 
+- Your company’s address must be shown on your website and be visible on Google Maps.
+  
+2) **Use Case Summary:**
+- Provide a clear and simple description of the business / service:
+- Explain exactly what business / service you offer and why the brand is sending messages (e.g., appointment reminders, OTP alerts, etc.).
+- The more details you give, the easier it will be to avoid delays or rejections during verification.
+- Ineligible Use Cases: Not all use cases are permitted for business messaging. Any content that is deceptive, fraudulent, unwanted, or illegal is prohibited. For more info, visit here. 
+
+3) **Content Messages:**
+- Ensure the brand name is included in every message.
+- Do not include public URL shorteners (like bit.ly links) in message content. For more info, visit here. 
+ 
+4) **Opt-In Description ("Call to Action"):**
+- The opt-in description should clearly explain how the business collects the end user’s phone number to send text messages.
+- The opt-in description must be detailed
+- Provide a link, image, or scanned copy of the opt-in method.
+- Opt-in consent must be specific to the business sending the messages. 
+- The business name should be clearly visible in the example. 
+- Lead generation is not allowed.
+- End users can only give one-to-one consent to a specific message sender, and this consent cannot be shared with other entities. 
+
+
+
+- For Marketing/Promotional Use Cases:
+  - It is important that users provide express written consent to receive marketing content (e.g., by checking a box on an online form).
+
+    Example:
+    You agree to receive to receive recurring marketing messages from {business name}. You also agree to our Terms of Service and Privacy Policy. Message frequencies vary. Message and data rates may apply. Reply STOP to end or HELP for help. 
+
+- For OTP/2FA Use Cases:
+  - It is important that users give informed consent. This means the user provides their phone number and is clearly informed that they will receive a text message at that number.
+
+    Example:
+    Enter phone number to receive a verification code from {business name} via text. 
+
+
+5) **HELP Message:**
+- A business must reply to messages containing the HELP keyword with the business name and details on how to contact the business.
+- Example: {Business Name}: {Description}. Contact us at {Email} or {Phone Number}. Message & data rates may apply. {Message frequency}. Text STOP to unsubscribe.
+
+
+6) **Terms and Conditions/Privacy Policy:**
+- Review the terms and conditions to ensure they include all required messaging details, such as opt-out instructions, customer support contact information, and any relevant privacy policy.
+- The privacy policy should clearly state that the user’s personal information will not be shared or sold to third parties for marketing purposes. This is especially important if the policy is posted on the business’s website under the global privacy policy section.
+- Suggested wording for the privacy policy: “We do not share mobile information with third parties or affiliates for marketing or promotional purposes. This excludes text messaging originator opt-in data and consent, which will never be shared with any third party.”
